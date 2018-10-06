@@ -1,0 +1,1 @@
+export SearchLocationItem from "./SearchLocationItem"

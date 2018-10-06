@@ -1,0 +1,3 @@
+rootProject.name = 'WeatherUI'
+
+include ':app'
